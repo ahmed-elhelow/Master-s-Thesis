@@ -1,0 +1,3 @@
+/home/ahmed/Dropbox/C++_code/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/Dropbox/C++_code/build/CMakeFiles/edit_cache.dir
+/home/ahmed/Dropbox/C++_code/build/CMakeFiles/main.dir
